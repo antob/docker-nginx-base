@@ -1,4 +1,4 @@
-TAG = 1.2
+TAG = 1.3
 PREFIX = antob/nginx-base
 
 all: build push
