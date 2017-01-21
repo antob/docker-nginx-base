@@ -1,4 +1,4 @@
-FROM nginx:1.9.6
+FROM nginx:1.10.2
 MAINTAINER Tobias Lindholm <tobias.lindholm@antob.se>
 
 # forward request and error logs to docker log collector
